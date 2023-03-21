@@ -2,7 +2,7 @@
 //Student Name: Maria Caballero
 //Date: 03/15/2023
 /*
- * Program Summary:
+ * *Program Summary:
  *          This program creates instance of class Student according to the amount of students the user
  *          wants to input and adds them into a list so that after, we can call the toString method at 
  *          the end and display each student with their respective averages.
